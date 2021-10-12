@@ -9,7 +9,6 @@ AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
-
 ## Acceptance Criteria
 
 ```
@@ -27,23 +26,20 @@ THEN I am again presented with current and future conditions for that city
 ```
 ## Mock-Up-Page Demo
 
-The following image shows the web application's appearance and functionality:
+![Mock Up Page Demo](./assets/images/weather_dash_demo.gif)
 
-![mockup-page-img]()
-
-### Resources
-* MDN Web Docs Moz: https://developer.mozilla.org/en-US/
+## Resources:
+* HTML, CSS, JavaScrips.
 * Stack Overflow: https://stackoverflow.com/
-* Football-data.org https://api.football-data.org/
-* Scorebat: https://www.scorebat.com/video-api/
-* Foundation: https://get.foundation/
-* Google Fonts: https://fonts.googleapis.com
+* Openweathermap: https://openweathermap.org/api
+* Bootstrap: https://getbootstrap.com/
 * CDNjs: https://cdnjs.cloudflare.com/
+* Axios: https://axios-http.com/
 
-### Live View Page: [Click Here!](https://thihoangpham.github.io/weather-dashboard-adam-homework6/)
+## Live View Page: [Click Here!](https://thihoangpham.github.io/weather-dashboard-adam-homework6/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 - - -
 
-© 2021 Project 1 - Group 2(Patrick & Adam): Football Highlights Dashboard 
+© 2021 Homework 6 - Adam Pham: Weather Dashboard 
