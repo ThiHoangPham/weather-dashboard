@@ -1,0 +1,16 @@
+/* color variables */
+:root {
+    --dark: #33475a;
+    --light: #b7b7b7;
+    --white: #ffffff;
+    --secondary: #1a76d2;
+    --primary: #334c9e;
+}
+/* universal style */
+h1, h2, h3, h4, h5, h6, p{
+    font-weight: 650;
+}
+/* margin history searched city container  */
+.form-control {
+    margin-bottom: 3%;
+}
